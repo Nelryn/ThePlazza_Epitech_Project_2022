@@ -6,7 +6,7 @@ A comprehensive pizzeria simulation demonstrating advanced concurrent programmin
 
 ## 🎯 Overview
 
-The Plazza is an **advanced C++** project that simulates a pizzeria with multiple kitchens, each containing several cooks working simultaneously. The system manages order reception, load balancing across kitchens, ingredient stock management, and inter-process communication.
+The Plazza is an **advanced C++** 3rd year project that simulates a pizzeria with multiple kitchens, each containing several cooks working simultaneously. The system manages order reception, load balancing across kitchens, ingredient stock management, and inter-process communication.
 This was developed as a 3 man project:
 
 * Process and thread management
