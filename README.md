@@ -1,4 +1,4 @@
-# ThePlazza Epitech Project 2022
+# The Plazza Epitech Project 2022
 
 A comprehensive pizzeria simulation demonstrating advanced concurrent programming concepts including multi-process architecture, thread management, inter-process communication, and load balancing.
 
